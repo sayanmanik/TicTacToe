@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_last">LastActivity</string>
+
+
+    <string name="title_activity_login">Log In</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password (min 8 char)</string>
+    <string name="not_a_member">Not a member? Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="forgot_password">Forgot Password ?</string>
+
+    <string name="title_activity_main">Quiz</string>
+    <string name="signup">Sign Up</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
